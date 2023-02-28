@@ -55,10 +55,10 @@
 		E832A2A6299E9C4600C99F05 /* MemorizeApp */ = {
 			isa = PBXGroup;
 			children = (
-				E832A2A7299E9C4600C99F05 /* MemorizeAppApp.swift */,
-				E832A2A9299E9C4600C99F05 /* ContentView.swift */,
 				E84F7D8129AB9A1200E2D2B3 /* MemoryGame.swift */,
 				E84F7D8329ABA19100E2D2B3 /* EmojiMemoryGame.swift */,
+				E832A2A9299E9C4600C99F05 /* ContentView.swift */,
+				E832A2A7299E9C4600C99F05 /* MemorizeAppApp.swift */,
 				E832A2AB299E9C4900C99F05 /* Assets.xcassets */,
 				E832A2AD299E9C4900C99F05 /* Preview Content */,
 			);
